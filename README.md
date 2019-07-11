@@ -1,7 +1,7 @@
 # Major outages and incidents
 
 A sample of major outages for infrastructure-y services, as well as other
-incidents. Many of these sourced from the excellent [SREweekly](http://sreweekly.com/?s=outages), which is much more comprehensive.
+incidents. These are almost entirely sourced from the excellent [SREweekly](http://sreweekly.com/?s=outages), which is much more comprehensive.
 
 
 ## 2019-07-02 Cloudflare
