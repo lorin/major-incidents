@@ -10,7 +10,7 @@ incidents. These are almost entirely sourced from the excellent [SREweekly](http
 
 ## 2019-06-28 Slack
 
-[Slack status page](https://status.slack.com/2019-06/9f63d8e30ee85f46)
+[Outage: Degraded functionality with several features](https://status.slack.com/2019-06/9f63d8e30ee85f46)
 
 ## 2019-06-24 Verizon BGP
 
@@ -49,7 +49,7 @@ incidents. These are almost entirely sourced from the excellent [SREweekly](http
 
 ## 2019-04-04 Slack
 
-[Outage: Customers are experieincing degraded funcionality](https://status.slack.com/2019-04/cd8c3560451f0724)
+[Outage: Customers are experiencing degraded funcionality](https://status.slack.com/2019-04/cd8c3560451f0724)
 
 ## 2019-03-27 Travis CI
 
