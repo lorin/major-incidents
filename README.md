@@ -15,7 +15,8 @@ incidents. These are almost entirely sourced from the excellent [SREweekly](http
 
 ## 2019-07-02 Cloudflare
 
-[Cloudflare outage caused by bad software deploy](https://blog.cloudflare.com/cloudflare-outage/)
+* [Cloudflare outage caused by bad software deploy](https://blog.cloudflare.com/cloudflare-outage/)
+* [Details of the Cloudflare outage on July 2, 2019](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/)
 
 ## 2019-06-28 Slack
 
