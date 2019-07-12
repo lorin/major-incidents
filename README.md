@@ -10,6 +10,7 @@ incidents. These are almost entirely sourced from the excellent [SREweekly](http
 ## 2019-06-10 Stripe
 
 * [@stripestatus](https://twitter.com/stripestatus/status/1149152970950373377<Paste>)
+* [Root cause analysis: significantly elevated error rates on 2019-07-10](https://stripe.com/rcas/2019-07-10)
 * [Stripe Outage Smacked Businesses for Two Hours](https://fortune.com/2019/07/11/stripe-outage-technology-payment-processing/)
 
 
@@ -48,6 +49,12 @@ incidents. These are almost entirely sourced from the excellent [SREweekly](http
 ## 2019-05-17 Salesforce
 
 [Multi-Instance Core and Communities Service Disruption starting May 17, 2019](https://help.salesforce.com/articleView?id=000320234&mode=1&type=1)
+
+## 2019-05-07 Mozilla add-ons
+
+* [Technical Details on the Recent Firefox Add-on Outage](https://hacks.mozilla.org/2019/05/technical-details-on-the-recent-firefox-add-on-outage/)
+* [Add-Ons Outage Post-Mortem Result](https://hacks.mozilla.org/2019/07/add-ons-outage-post-mortem-result/)
+* [Bug 1549886](https://bugzilla.mozilla.org/show_bug.cgi?id=1549886)
 
 ## 2019-05-02 Azure, Microsoft 365
 
