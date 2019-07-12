@@ -3,6 +3,15 @@
 A sample of major outages for infrastructure-y services, as well as other
 incidents. These are almost entirely sourced from the excellent [SREweekly](http://sreweekly.com/?s=outages), which is much more comprehensive.
 
+## 2019-07-11 Twitter
+
+* [@TwitterEng](https://twitter.com/TwitterEng/status/1149415716228984832)
+
+## 2019-06-10 Stripe
+
+* [@stripestatus](https://twitter.com/stripestatus/status/1149152970950373377<Paste>)
+* [Stripe Outage Smacked Businesses for Two Hours](https://fortune.com/2019/07/11/stripe-outage-technology-payment-processing/)
+
 
 ## 2019-07-02 Cloudflare
 
