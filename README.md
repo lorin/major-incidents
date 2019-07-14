@@ -3,6 +3,11 @@
 A sample of major outages for infrastructure-y services, as well as other
 incidents. These are almost entirely sourced from the excellent [SREweekly](http://sreweekly.com/?s=outages), which is much more comprehensive.
 
+## 2019-07-13 New York City power outage
+
+* [Power Restored to Manhattan’s West Side After Major Blackout](https://www.nytimes.com/2019/07/13/nyregion/nyc-power-outage.html?module=inline)
+* [Blackout: Con Edison Apologizes, but Offers Few Clues About ‘Root Cause’](https://www.nytimes.com/2019/07/14/nyregion/nyc-power-outage-con-edison.html?action=click&module=Top%20Stories&pgtype=Homepage)
+
 ## 2019-07-11 Twitter
 
 * [@TwitterEng](https://twitter.com/TwitterEng/status/1149415716228984832)
