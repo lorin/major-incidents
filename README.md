@@ -12,7 +12,7 @@ incidents. These are almost entirely sourced from the excellent [SREweekly](http
 
 * [@TwitterEng](https://twitter.com/TwitterEng/status/1149415716228984832)
 
-## 2019-06-10 Stripe
+## 2019-07-10 Stripe
 
 * [@stripestatus](https://twitter.com/stripestatus/status/1149152970950373377<Paste>)
 * [Root cause analysis: significantly elevated error rates on 2019-07-10](https://stripe.com/rcas/2019-07-10)
